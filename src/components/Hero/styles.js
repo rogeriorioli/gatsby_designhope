@@ -9,6 +9,9 @@ export const HeroContainer = styled.section`
     background-size : contain;
     background-position-y: -50px;
     padding : 40px 0;
+    @media screen and (max-width:468px){
+        background-position: bottom;
+    }
     h2 {
         width : 80%;
     }
