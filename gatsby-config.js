@@ -19,7 +19,7 @@ module.exports = {
         name:`parceiros`,
         path: `${__dirname}/src/images/clientes`
       },
-    }
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-styled-components`,
