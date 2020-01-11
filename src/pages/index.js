@@ -7,7 +7,6 @@ import Hero from "../components/Hero"
 import Section from "../components/Section"
 import Title from "../components/Title"
 import SectionTech from "../components/SectionTech"
-import SectionClients from "../components/SectionClientes"
 import code from '../images/code_html.svg'
 import landing from '../images/landing_pages_1.svg'
 import marketing from '../images/marketing.svg'
